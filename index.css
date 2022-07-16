@@ -8,3 +8,18 @@
 #smallHeader {
     font-size: 65px;
 }
+h2{
+    padding-top: 5%;
+}
+span{
+    color:grey;
+}
+.breaking_bad{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin: 0 auto;
+    object-fit: cover;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
